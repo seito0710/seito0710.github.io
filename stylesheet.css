@@ -1,0 +1,87 @@
+.top-wrapper{
+
+}
+
+.name{
+  font-family:sans-serif;
+  font-size:50px;
+}
+
+.katagaki{
+  font-family:sans-serif;
+  font-size:20px;
+}
+ul{
+
+}
+
+li{
+list-style: none;
+  height:500px;
+  width:809px;
+  margin:100px;
+  background-size: cover;
+
+}
+
+.list1{
+  background-image: url(1-131110002959.jpg);
+
+}
+
+.list2{
+  background-image: url(4k10.jpg);
+
+}
+
+.list3{
+  background-image: url(19dd47d4.jpg);
+}
+.list4{
+  background-image: url(420bb44ddb5796707fffe8b1c4fce187.jpg);
+}
+
+.list5{
+  background-image: url(chabatake.jpg);
+}
+.list6{
+  background-image: url(ecbaa90b0d5c9b1a215797120b5b7ded-d39jb1x.jpg);
+}
+.list7{
+  background-image: url(forest23.jpg);
+}
+.list8{
+  background-image: url(G0av8K.jpg);
+  
+}
+.list9{
+  background-image: url(gf01a201503140400.jpg);
+}
+.list10{
+  background-image: url(hatsune-miku-twintails-vocaloid.jpg);
+}
+.middle-wrapper{
+
+
+
+}
+.top-wrapper{
+  text-align: center;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+
+.bottom-wrapper{
+  text-align: center;
+  font-family:sans-serif;
+  font-size:20px;
+
+
+
+
+
+}
+
+footer{
+border-top: 1px solid black;
+}
